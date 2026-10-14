@@ -4,6 +4,8 @@ Study Den is a home practice app for Year 5: maths, English, French, geography, 
 
 ## Get the latest version
 
+Easiest: open **https://studyden.chrisjohnson.uk** on the phone or PC.
+
 **[⬇ Download for Android](https://github.com/chrisjohnson1982/study-den-downloads/releases/latest/download/StudyDen.apk)** · **[⬇ Download for Windows (installer)](https://github.com/chrisjohnson1982/study-den-downloads/releases/latest/download/StudyDen-Setup.exe)** · [All versions](https://github.com/chrisjohnson1982/study-den-downloads/releases)
 
 ### Android
